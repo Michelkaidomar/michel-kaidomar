@@ -3,10 +3,10 @@
   <channel>
     <title>carpe diem</title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 May 2020 18:21:34 +0200</pubDate>
-    <lastBuildDate>Sun, 10 May 2020 18:21:34 +0200</lastBuildDate>
+    <link>https://michelkaidomar.com</link>
+    <atom:link href="https://michelkaidomar.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 May 2020 18:30:56 +0200</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 18:30:56 +0200</lastBuildDate>
     <generator>Jekyll v3.8.7</generator>
     
       <item>
@@ -17,8 +17,8 @@
 
 </description>
         <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/03/10/chiens/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/03/10/chiens/</guid>
+        <link>https://michelkaidomar.com/2020/03/10/chiens/</link>
+        <guid isPermaLink="true">https://michelkaidomar.com/2020/03/10/chiens/</guid>
         
         <category>Dummy Text</category>
         
@@ -37,8 +37,8 @@
 
 </description>
         <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2020/03/10/canaries2020/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/03/10/canaries2020/</guid>
+        <link>https://michelkaidomar.com/2020/03/10/canaries2020/</link>
+        <guid isPermaLink="true">https://michelkaidomar.com/2020/03/10/canaries2020/</guid>
         
         <category>Dummy Text</category>
         
@@ -59,8 +59,8 @@
 
 </description>
         <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/2018/09/01/dahkla2018/</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/01/dahkla2018/</guid>
+        <link>https://michelkaidomar.com/2018/09/01/dahkla2018/</link>
+        <guid isPermaLink="true">https://michelkaidomar.com/2018/09/01/dahkla2018/</guid>
         
         <category>Dummy Text</category>
         
