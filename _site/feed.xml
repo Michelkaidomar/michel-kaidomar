@@ -5,12 +5,12 @@
     <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 May 2020 17:28:14 +0200</pubDate>
-    <lastBuildDate>Sun, 10 May 2020 17:28:14 +0200</lastBuildDate>
+    <pubDate>Sun, 10 May 2020 18:01:40 +0200</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 18:01:40 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Canaries 2020</title>
+        <title>Chiens</title>
         <description>&lt;h1 id=&quot;tuiga--largo&quot;&gt;Tuiga &amp;amp; Largo&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/chiens.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Canaries 2020"
+title: "Chiens"
 date: 2020-03-10
 description: 
 image: /assets/images/chiens.jpeg
