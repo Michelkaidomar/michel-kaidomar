@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Dakhla 2018"
+date: 2018-09-01
+description: 
+image: /assets/images/dakhla.jpg
+author: Michel Kaidomar
+tags: 
+  - Dummy Text
+  - Moon Drinking
+  - Kale
+---
+# Daklha 
+
+![Placeholder](/assets/images/dakhla2.jpg)
+
+![Placeholder](/assets/images/chiens.jpeg)
+
+

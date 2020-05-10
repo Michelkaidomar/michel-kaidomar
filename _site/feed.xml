@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carpe diem</title>
+    <description></description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 May 2020 17:28:14 +0200</pubDate>
+    <lastBuildDate>Sun, 10 May 2020 17:28:14 +0200</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Canaries 2020</title>
+        <description>&lt;h1 id=&quot;tuiga--largo&quot;&gt;Tuiga &amp;amp; Largo&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/chiens.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/03/10/chiens/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/10/chiens/</guid>
+        
+        <category>Dummy Text</category>
+        
+        <category>Moon Drinking</category>
+        
+        <category>Kale</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Canaries 2020</title>
+        <description>&lt;h1 id=&quot;flag-beach&quot;&gt;Flag beach&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/canaries20202.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2020/03/10/canaries2020/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/10/canaries2020/</guid>
+        
+        <category>Dummy Text</category>
+        
+        <category>Moon Drinking</category>
+        
+        <category>Kale</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dakhla 2018</title>
+        <description>&lt;h1 id=&quot;daklha&quot;&gt;Daklha&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/dakhla2.jpg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/chiens.jpeg&quot; alt=&quot;Placeholder&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/2018/09/01/dahkla2018/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/01/dahkla2018/</guid>
+        
+        <category>Dummy Text</category>
+        
+        <category>Moon Drinking</category>
+        
+        <category>Kale</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
