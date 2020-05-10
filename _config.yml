@@ -61,6 +61,7 @@ autopages:
 
 # Build settings
 markdown: kramdown
+remote-theme: samesies/barber-jekyll
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
